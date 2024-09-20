@@ -21,8 +21,8 @@ Congisgnas
         LED3: 10
         LED4: 11
       Valor:
-        R_boton: PULL DOWN
-        R_LEDs: 
+        R_boton: PULL UP
+        R_LEDs: 2.6 OHM
 
   Progamas:
     Se deben entregar un programa distinto por cada punto. Los programas son una modificación entre ellos.
