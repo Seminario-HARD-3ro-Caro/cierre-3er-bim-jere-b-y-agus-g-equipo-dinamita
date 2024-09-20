@@ -16,13 +16,13 @@ Congisgnas
     Indicar a continuación los pines a los cuales se conectó cada elemento y el valor de resistencias utilizado:
       Pines:
         Boton: 2
-        LED1: 9
-        LED2: 10
-        LED3: 11
-        LED4: 
+        LED1: 6
+        LED2: 9
+        LED3: 10
+        LED4: 11
       Valor:
-        R_boton:
-        R_LEDs:
+        R_boton: PULL DOWN
+        R_LEDs: 
 
   Progamas:
     Se deben entregar un programa distinto por cada punto. Los programas son una modificación entre ellos.
